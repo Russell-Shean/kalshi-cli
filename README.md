@@ -79,3 +79,7 @@ Under Contact Info enter your email again and click next
 Finally check the box to agree to the terms of service and click continue and then create
 
 ![consent screen finish](oauth-finish.png)    
+
+You should then be redirected to a page that looks like this. Under the "Metrics" section click on the "Create Oauth Client" button   
+
+![Create Clients](create-clients-landing.png)
