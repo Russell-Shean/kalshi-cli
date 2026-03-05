@@ -1,0 +1,37 @@
+api:
+  base_url: "https://api.kalshi.com"   # (Base URL for Kalshi API)
+  request_timeout_seconds: 10          # (HTTP request timeout)
+  max_retries: 3                       # (Retry failed API requests this many times)
+
+trading:
+  number_of_combos_to_trade_today: 5   # (Number of combo tickets to place during this run)
+
+risk_management:
+  max_risk_per_combo: 10               # (Stake size per combo ticket in USD, e.g. $10 or $100)
+  max_total_daily_risk: 100            # (Total risk cap across all combos for the day)
+
+combo_constraints:
+  legs:
+    min: 3                             # (Minimum number of legs in a combo)
+    max: 6                             # (Maximum number of legs in a combo)
+
+  payout_percentage:
+    min: 0.05                          # (Minimum payout/profit percentage allowed from Kalshi combo UI)
+    max: 0.50                          # (Maximum payout/profit percentage allowed from Kalshi combo UI)
+                                      # (Use the same payout/profit value returned by the Kalshi API)
+
+timing_constraints:
+  min_time_to_game_start_minutes: 30   # (Skip combos if the earliest leg starts sooner than this)
+
+filters:
+  minimum_leg_probability: 0.0         # (Optional minimum probability for each leg, if available from API)
+
+  exclude:
+    markets: []                        # (List of market IDs to exclude)
+    teams: []                          # (List of team names to exclude)
+    leagues: []                        # (List of leagues to exclude)
+
+logging:
+  level: "INFO"                        # (Logging level: DEBUG, INFO, WARNING, ERROR)
+  log_to_file: true                    # (Enable logging to file)
+  log_file_path: "logs/trading_bot.log" # (File path for log output)
