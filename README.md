@@ -39,7 +39,7 @@ The following link will take you to the correct page: https://console.cloud.goog
 
 You will be prompted to login if you're not already logged into your google account. Then you should see a screen that looks like this:    
 
-![New project](gcp-new-project.png "New Project")
+![New project](www/images/gcp-new-project.png "New Project")
 
 Change the name to "kalshi-cli". (You can choose whatever name you want, but using the same name as me may make it easier to follow this tutorial). 
 
@@ -54,32 +54,32 @@ If you used the same project name as me (kalshi-cli), the following link should 
 
 You should see a screen that looks like this:      
 
-![Credentials page](credentials-landing-page.png "Credentials page")    
+![Credentials page](www/images/credentials-landing-page.png "Credentials page")    
 
 Now click on the "configure consent screen" button in the top right corner, then you should see this page:    
 
 
-![Oauth getting started](credentials-landing-page.png)
+![Oauth getting started](www/images/credentials-landing-page.png)
 
 
 Click "Get Started"    
 
 You should then see a page that asks you to provide App Information. Under the App Name section enter "kalshi-cli" and then click on the User Support Email menu and choose your own email. Then click next to move to the next section.      
 
-![App Name](oauth-app-info.png)      
+![App Name](www/images/oauth-app-info.png)      
    
 Under Audience select external and click next     
 
-![Audience](oauth-audience.png)   
+![Audience](www/images/oauth-audience.png)   
 
 Under Contact Info enter your email again and click next    
 
-![Contact Info](oauth-contact_info.png)    
+![Contact Info](www/images/oauth-contact_info.png)    
 
 Finally check the box to agree to the terms of service and click continue and then create
 
-![consent screen finish](oauth-finish.png)    
+![consent screen finish](www/images/oauth-finish.png)    
 
 You should then be redirected to a page that looks like this. Under the "Metrics" section click on the "Create Oauth Client" button   
 
-![Create Clients](create-clients-landing.png)
+![Create Clients](www/images/create-clients-landing.png)
