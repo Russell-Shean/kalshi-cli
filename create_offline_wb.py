@@ -1,9 +1,14 @@
 import pandas as pd
 import random
 from datetime import datetime, timedelta
+from googleapiclient.http import MediaFileUpload
+from utils import build_google_service
 
 # Output file
 output_file = "nba_player_stats.xlsx"
+
+# Google Drive folder ID
+FOLDER_ID = "1BigVWckXCrG7DM-hANjDai-SgRMld7yZ"
 
 # Sample players with accents/punctuation
 players = [
@@ -44,7 +49,6 @@ def build_base_rows():
         })
     return rows
 
-# Points tab
 points_cols = [
     "10 PTS Success %",
     "15 PTS Success %",
@@ -53,7 +57,6 @@ points_cols = [
     "30 PTS Success %"
 ]
 
-# Rebounds tab
 reb_cols = [
     "2 RBS Success %",
     "4 RBS Success %",
@@ -62,7 +65,6 @@ reb_cols = [
     "10 RBS Success %"
 ]
 
-# Assists tab
 ast_cols = [
     "2 AST Success %",
     "4 AST Success %",
@@ -71,7 +73,6 @@ ast_cols = [
     "10 AST Success %"
 ]
 
-# 3 pointers tab
 three_cols = [
     "1 3s Success %",
     "2 3s Success %",
@@ -101,3 +102,31 @@ with pd.ExcelWriter(output_file, engine="xlsxwriter") as writer:
     three_df.to_excel(writer, sheet_name="Three Pointers", index=False)
 
 print(f"Workbook '{output_file}' created successfully.")
+
+# -----------------------------
+# Upload and convert to Sheets
+# -----------------------------
+
+drive_service = build_google_service("drive")
+
+file_metadata = {
+    "name": "NBA Player Stats",
+    "parents": [FOLDER_ID],
+    "mimeType": "application/vnd.google-apps.spreadsheet"
+}
+
+media = MediaFileUpload(
+    output_file,
+    mimetype="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    resumable=True
+)
+
+uploaded_file = drive_service.files().create(
+    body=file_metadata,
+    media_body=media,
+    fields="id, webViewLink"
+).execute()
+
+print("File uploaded and converted to Google Sheets.")
+print("Spreadsheet ID:", uploaded_file["id"])
+print("Open in browser:", uploaded_file["webViewLink"])

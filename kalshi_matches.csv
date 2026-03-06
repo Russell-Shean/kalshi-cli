@@ -1,0 +1,2 @@
+player,team,stat,threshold,model_probability,kalshi_yes_price,kalshi_implied_probability,edge,event_date,ticker,market_title
+nikola jokic,DEN,points,30,0.8809999999999999,0,0.0,0.8809999999999999,,KXMVECROSSCATEGORY-S2026CF18561C6E0-AA6D4CB5EB4,"yes Nikola Jokić: 30+,yes Over 226.5 points scored"

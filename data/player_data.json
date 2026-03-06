@@ -1,0 +1,1682 @@
+[
+  {
+    "player_name": "luka doncic",
+    "stat_type": "points",
+    "threshold": "10+",
+    "success_probability": 37.79,
+    "team": "DAL"
+  },
+  {
+    "player_name": "luka doncic",
+    "stat_type": "points",
+    "threshold": "15+",
+    "success_probability": 84.36,
+    "team": "DAL"
+  },
+  {
+    "player_name": "luka doncic",
+    "stat_type": "points",
+    "threshold": "20+",
+    "success_probability": 61.18,
+    "team": "DAL"
+  },
+  {
+    "player_name": "luka doncic",
+    "stat_type": "points",
+    "threshold": "25+",
+    "success_probability": 64.18,
+    "team": "DAL"
+  },
+  {
+    "player_name": "luka doncic",
+    "stat_type": "points",
+    "threshold": "30+",
+    "success_probability": 25.75,
+    "team": "DAL"
+  },
+  {
+    "player_name": "nikola jokic",
+    "stat_type": "points",
+    "threshold": "10+",
+    "success_probability": 86.36,
+    "team": "DEN"
+  },
+  {
+    "player_name": "nikola jokic",
+    "stat_type": "points",
+    "threshold": "15+",
+    "success_probability": 42.93,
+    "team": "DEN"
+  },
+  {
+    "player_name": "nikola jokic",
+    "stat_type": "points",
+    "threshold": "20+",
+    "success_probability": 79.97,
+    "team": "DEN"
+  },
+  {
+    "player_name": "nikola jokic",
+    "stat_type": "points",
+    "threshold": "25+",
+    "success_probability": 34.43,
+    "team": "DEN"
+  },
+  {
+    "player_name": "nikola jokic",
+    "stat_type": "points",
+    "threshold": "30+",
+    "success_probability": 88.1,
+    "team": "DEN"
+  },
+  {
+    "player_name": "giannis antetokounmpo",
+    "stat_type": "points",
+    "threshold": "10+",
+    "success_probability": 74.16,
+    "team": "MIL"
+  },
+  {
+    "player_name": "giannis antetokounmpo",
+    "stat_type": "points",
+    "threshold": "15+",
+    "success_probability": 49.7,
+    "team": "MIL"
+  },
+  {
+    "player_name": "giannis antetokounmpo",
+    "stat_type": "points",
+    "threshold": "20+",
+    "success_probability": 91.34,
+    "team": "MIL"
+  },
+  {
+    "player_name": "giannis antetokounmpo",
+    "stat_type": "points",
+    "threshold": "25+",
+    "success_probability": 32.46,
+    "team": "MIL"
+  },
+  {
+    "player_name": "giannis antetokounmpo",
+    "stat_type": "points",
+    "threshold": "30+",
+    "success_probability": 67.81,
+    "team": "MIL"
+  },
+  {
+    "player_name": "shai gilgeousalexander",
+    "stat_type": "points",
+    "threshold": "10+",
+    "success_probability": 47.65,
+    "team": "OKC"
+  },
+  {
+    "player_name": "shai gilgeousalexander",
+    "stat_type": "points",
+    "threshold": "15+",
+    "success_probability": 75.9,
+    "team": "OKC"
+  },
+  {
+    "player_name": "shai gilgeousalexander",
+    "stat_type": "points",
+    "threshold": "20+",
+    "success_probability": 62.48,
+    "team": "OKC"
+  },
+  {
+    "player_name": "shai gilgeousalexander",
+    "stat_type": "points",
+    "threshold": "25+",
+    "success_probability": 40.97,
+    "team": "OKC"
+  },
+  {
+    "player_name": "shai gilgeousalexander",
+    "stat_type": "points",
+    "threshold": "30+",
+    "success_probability": 44.15,
+    "team": "OKC"
+  },
+  {
+    "player_name": "karlanthony towns",
+    "stat_type": "points",
+    "threshold": "10+",
+    "success_probability": 74.93,
+    "team": "MIN"
+  },
+  {
+    "player_name": "karlanthony towns",
+    "stat_type": "points",
+    "threshold": "15+",
+    "success_probability": 88.44,
+    "team": "MIN"
+  },
+  {
+    "player_name": "karlanthony towns",
+    "stat_type": "points",
+    "threshold": "20+",
+    "success_probability": 44.82,
+    "team": "MIN"
+  },
+  {
+    "player_name": "karlanthony towns",
+    "stat_type": "points",
+    "threshold": "25+",
+    "success_probability": 68.87,
+    "team": "MIN"
+  },
+  {
+    "player_name": "karlanthony towns",
+    "stat_type": "points",
+    "threshold": "30+",
+    "success_probability": 87.12,
+    "team": "MIN"
+  },
+  {
+    "player_name": "bogdan bogdanovic",
+    "stat_type": "points",
+    "threshold": "10+",
+    "success_probability": 52.56,
+    "team": "ATL"
+  },
+  {
+    "player_name": "bogdan bogdanovic",
+    "stat_type": "points",
+    "threshold": "15+",
+    "success_probability": 66.28,
+    "team": "ATL"
+  },
+  {
+    "player_name": "bogdan bogdanovic",
+    "stat_type": "points",
+    "threshold": "20+",
+    "success_probability": 59.48,
+    "team": "ATL"
+  },
+  {
+    "player_name": "bogdan bogdanovic",
+    "stat_type": "points",
+    "threshold": "25+",
+    "success_probability": 33.71,
+    "team": "ATL"
+  },
+  {
+    "player_name": "bogdan bogdanovic",
+    "stat_type": "points",
+    "threshold": "30+",
+    "success_probability": 89.75,
+    "team": "ATL"
+  },
+  {
+    "player_name": "tim hardaway jr",
+    "stat_type": "points",
+    "threshold": "10+",
+    "success_probability": 53.9,
+    "team": "DAL"
+  },
+  {
+    "player_name": "tim hardaway jr",
+    "stat_type": "points",
+    "threshold": "15+",
+    "success_probability": 42.94,
+    "team": "DAL"
+  },
+  {
+    "player_name": "tim hardaway jr",
+    "stat_type": "points",
+    "threshold": "20+",
+    "success_probability": 33.39,
+    "team": "DAL"
+  },
+  {
+    "player_name": "tim hardaway jr",
+    "stat_type": "points",
+    "threshold": "25+",
+    "success_probability": 26.41,
+    "team": "DAL"
+  },
+  {
+    "player_name": "tim hardaway jr",
+    "stat_type": "points",
+    "threshold": "30+",
+    "success_probability": 87.55,
+    "team": "DAL"
+  },
+  {
+    "player_name": "dangelo russell",
+    "stat_type": "points",
+    "threshold": "10+",
+    "success_probability": 35.58,
+    "team": "LAL"
+  },
+  {
+    "player_name": "dangelo russell",
+    "stat_type": "points",
+    "threshold": "15+",
+    "success_probability": 79.38,
+    "team": "LAL"
+  },
+  {
+    "player_name": "dangelo russell",
+    "stat_type": "points",
+    "threshold": "20+",
+    "success_probability": 67.32,
+    "team": "LAL"
+  },
+  {
+    "player_name": "dangelo russell",
+    "stat_type": "points",
+    "threshold": "25+",
+    "success_probability": 37.74,
+    "team": "LAL"
+  },
+  {
+    "player_name": "dangelo russell",
+    "stat_type": "points",
+    "threshold": "30+",
+    "success_probability": 86.24,
+    "team": "LAL"
+  },
+  {
+    "player_name": "jose alvarado",
+    "stat_type": "points",
+    "threshold": "10+",
+    "success_probability": 80.95,
+    "team": "NOP"
+  },
+  {
+    "player_name": "jose alvarado",
+    "stat_type": "points",
+    "threshold": "15+",
+    "success_probability": 80.97,
+    "team": "NOP"
+  },
+  {
+    "player_name": "jose alvarado",
+    "stat_type": "points",
+    "threshold": "20+",
+    "success_probability": 35.27,
+    "team": "NOP"
+  },
+  {
+    "player_name": "jose alvarado",
+    "stat_type": "points",
+    "threshold": "25+",
+    "success_probability": 28.31,
+    "team": "NOP"
+  },
+  {
+    "player_name": "jose alvarado",
+    "stat_type": "points",
+    "threshold": "30+",
+    "success_probability": 46.15,
+    "team": "NOP"
+  },
+  {
+    "player_name": "dennis schroder",
+    "stat_type": "points",
+    "threshold": "10+",
+    "success_probability": 30.05,
+    "team": "BKN"
+  },
+  {
+    "player_name": "dennis schroder",
+    "stat_type": "points",
+    "threshold": "15+",
+    "success_probability": 69.13,
+    "team": "BKN"
+  },
+  {
+    "player_name": "dennis schroder",
+    "stat_type": "points",
+    "threshold": "20+",
+    "success_probability": 69.84,
+    "team": "BKN"
+  },
+  {
+    "player_name": "dennis schroder",
+    "stat_type": "points",
+    "threshold": "25+",
+    "success_probability": 53.89,
+    "team": "BKN"
+  },
+  {
+    "player_name": "dennis schroder",
+    "stat_type": "points",
+    "threshold": "30+",
+    "success_probability": 90.09,
+    "team": "BKN"
+  },
+  {
+    "player_name": "rj barrett",
+    "stat_type": "points",
+    "threshold": "10+",
+    "success_probability": 27.16,
+    "team": "TOR"
+  },
+  {
+    "player_name": "rj barrett",
+    "stat_type": "points",
+    "threshold": "15+",
+    "success_probability": 81.1,
+    "team": "TOR"
+  },
+  {
+    "player_name": "rj barrett",
+    "stat_type": "points",
+    "threshold": "20+",
+    "success_probability": 38.15,
+    "team": "TOR"
+  },
+  {
+    "player_name": "rj barrett",
+    "stat_type": "points",
+    "threshold": "25+",
+    "success_probability": 65.96,
+    "team": "TOR"
+  },
+  {
+    "player_name": "rj barrett",
+    "stat_type": "points",
+    "threshold": "30+",
+    "success_probability": 60.1,
+    "team": "TOR"
+  },
+  {
+    "player_name": "jalen williams",
+    "stat_type": "points",
+    "threshold": "10+",
+    "success_probability": 75.79,
+    "team": "OKC"
+  },
+  {
+    "player_name": "jalen williams",
+    "stat_type": "points",
+    "threshold": "15+",
+    "success_probability": 35.79,
+    "team": "OKC"
+  },
+  {
+    "player_name": "jalen williams",
+    "stat_type": "points",
+    "threshold": "20+",
+    "success_probability": 59.21,
+    "team": "OKC"
+  },
+  {
+    "player_name": "jalen williams",
+    "stat_type": "points",
+    "threshold": "25+",
+    "success_probability": 79.34,
+    "team": "OKC"
+  },
+  {
+    "player_name": "jalen williams",
+    "stat_type": "points",
+    "threshold": "30+",
+    "success_probability": 54.01,
+    "team": "OKC"
+  },
+  {
+    "player_name": "luka doncic",
+    "stat_type": "rebounds",
+    "threshold": "2+",
+    "success_probability": 46.77,
+    "team": "DAL"
+  },
+  {
+    "player_name": "luka doncic",
+    "stat_type": "rebounds",
+    "threshold": "4+",
+    "success_probability": 35.92,
+    "team": "DAL"
+  },
+  {
+    "player_name": "luka doncic",
+    "stat_type": "rebounds",
+    "threshold": "6+",
+    "success_probability": 93.21,
+    "team": "DAL"
+  },
+  {
+    "player_name": "luka doncic",
+    "stat_type": "rebounds",
+    "threshold": "8+",
+    "success_probability": 52.96,
+    "team": "DAL"
+  },
+  {
+    "player_name": "luka doncic",
+    "stat_type": "rebounds",
+    "threshold": "10+",
+    "success_probability": 67.94,
+    "team": "DAL"
+  },
+  {
+    "player_name": "nikola jokic",
+    "stat_type": "rebounds",
+    "threshold": "2+",
+    "success_probability": 69.65,
+    "team": "DEN"
+  },
+  {
+    "player_name": "nikola jokic",
+    "stat_type": "rebounds",
+    "threshold": "4+",
+    "success_probability": 79.35,
+    "team": "DEN"
+  },
+  {
+    "player_name": "nikola jokic",
+    "stat_type": "rebounds",
+    "threshold": "6+",
+    "success_probability": 88.19,
+    "team": "DEN"
+  },
+  {
+    "player_name": "nikola jokic",
+    "stat_type": "rebounds",
+    "threshold": "8+",
+    "success_probability": 94.81,
+    "team": "DEN"
+  },
+  {
+    "player_name": "nikola jokic",
+    "stat_type": "rebounds",
+    "threshold": "10+",
+    "success_probability": 75.2,
+    "team": "DEN"
+  },
+  {
+    "player_name": "giannis antetokounmpo",
+    "stat_type": "rebounds",
+    "threshold": "2+",
+    "success_probability": 49.76,
+    "team": "MIL"
+  },
+  {
+    "player_name": "giannis antetokounmpo",
+    "stat_type": "rebounds",
+    "threshold": "4+",
+    "success_probability": 87.06,
+    "team": "MIL"
+  },
+  {
+    "player_name": "giannis antetokounmpo",
+    "stat_type": "rebounds",
+    "threshold": "6+",
+    "success_probability": 89.38,
+    "team": "MIL"
+  },
+  {
+    "player_name": "giannis antetokounmpo",
+    "stat_type": "rebounds",
+    "threshold": "8+",
+    "success_probability": 64.67,
+    "team": "MIL"
+  },
+  {
+    "player_name": "giannis antetokounmpo",
+    "stat_type": "rebounds",
+    "threshold": "10+",
+    "success_probability": 84.55,
+    "team": "MIL"
+  },
+  {
+    "player_name": "shai gilgeousalexander",
+    "stat_type": "rebounds",
+    "threshold": "2+",
+    "success_probability": 70.18,
+    "team": "OKC"
+  },
+  {
+    "player_name": "shai gilgeousalexander",
+    "stat_type": "rebounds",
+    "threshold": "4+",
+    "success_probability": 41.72,
+    "team": "OKC"
+  },
+  {
+    "player_name": "shai gilgeousalexander",
+    "stat_type": "rebounds",
+    "threshold": "6+",
+    "success_probability": 88.4,
+    "team": "OKC"
+  },
+  {
+    "player_name": "shai gilgeousalexander",
+    "stat_type": "rebounds",
+    "threshold": "8+",
+    "success_probability": 32.96,
+    "team": "OKC"
+  },
+  {
+    "player_name": "shai gilgeousalexander",
+    "stat_type": "rebounds",
+    "threshold": "10+",
+    "success_probability": 63.04,
+    "team": "OKC"
+  },
+  {
+    "player_name": "karlanthony towns",
+    "stat_type": "rebounds",
+    "threshold": "2+",
+    "success_probability": 47.69,
+    "team": "MIN"
+  },
+  {
+    "player_name": "karlanthony towns",
+    "stat_type": "rebounds",
+    "threshold": "4+",
+    "success_probability": 30.68,
+    "team": "MIN"
+  },
+  {
+    "player_name": "karlanthony towns",
+    "stat_type": "rebounds",
+    "threshold": "6+",
+    "success_probability": 91.53,
+    "team": "MIN"
+  },
+  {
+    "player_name": "karlanthony towns",
+    "stat_type": "rebounds",
+    "threshold": "8+",
+    "success_probability": 82.16,
+    "team": "MIN"
+  },
+  {
+    "player_name": "karlanthony towns",
+    "stat_type": "rebounds",
+    "threshold": "10+",
+    "success_probability": 93.97,
+    "team": "MIN"
+  },
+  {
+    "player_name": "bogdan bogdanovic",
+    "stat_type": "rebounds",
+    "threshold": "2+",
+    "success_probability": 43.8,
+    "team": "ATL"
+  },
+  {
+    "player_name": "bogdan bogdanovic",
+    "stat_type": "rebounds",
+    "threshold": "4+",
+    "success_probability": 83.68,
+    "team": "ATL"
+  },
+  {
+    "player_name": "bogdan bogdanovic",
+    "stat_type": "rebounds",
+    "threshold": "6+",
+    "success_probability": 39.45,
+    "team": "ATL"
+  },
+  {
+    "player_name": "bogdan bogdanovic",
+    "stat_type": "rebounds",
+    "threshold": "8+",
+    "success_probability": 49.99,
+    "team": "ATL"
+  },
+  {
+    "player_name": "bogdan bogdanovic",
+    "stat_type": "rebounds",
+    "threshold": "10+",
+    "success_probability": 30.4,
+    "team": "ATL"
+  },
+  {
+    "player_name": "tim hardaway jr",
+    "stat_type": "rebounds",
+    "threshold": "2+",
+    "success_probability": 62.76,
+    "team": "DAL"
+  },
+  {
+    "player_name": "tim hardaway jr",
+    "stat_type": "rebounds",
+    "threshold": "4+",
+    "success_probability": 62.87,
+    "team": "DAL"
+  },
+  {
+    "player_name": "tim hardaway jr",
+    "stat_type": "rebounds",
+    "threshold": "6+",
+    "success_probability": 42.88,
+    "team": "DAL"
+  },
+  {
+    "player_name": "tim hardaway jr",
+    "stat_type": "rebounds",
+    "threshold": "8+",
+    "success_probability": 50.15,
+    "team": "DAL"
+  },
+  {
+    "player_name": "tim hardaway jr",
+    "stat_type": "rebounds",
+    "threshold": "10+",
+    "success_probability": 94.12,
+    "team": "DAL"
+  },
+  {
+    "player_name": "dangelo russell",
+    "stat_type": "rebounds",
+    "threshold": "2+",
+    "success_probability": 75.35,
+    "team": "LAL"
+  },
+  {
+    "player_name": "dangelo russell",
+    "stat_type": "rebounds",
+    "threshold": "4+",
+    "success_probability": 93.48,
+    "team": "LAL"
+  },
+  {
+    "player_name": "dangelo russell",
+    "stat_type": "rebounds",
+    "threshold": "6+",
+    "success_probability": 44.9,
+    "team": "LAL"
+  },
+  {
+    "player_name": "dangelo russell",
+    "stat_type": "rebounds",
+    "threshold": "8+",
+    "success_probability": 38.83,
+    "team": "LAL"
+  },
+  {
+    "player_name": "dangelo russell",
+    "stat_type": "rebounds",
+    "threshold": "10+",
+    "success_probability": 31.66,
+    "team": "LAL"
+  },
+  {
+    "player_name": "jose alvarado",
+    "stat_type": "rebounds",
+    "threshold": "2+",
+    "success_probability": 92.82,
+    "team": "NOP"
+  },
+  {
+    "player_name": "jose alvarado",
+    "stat_type": "rebounds",
+    "threshold": "4+",
+    "success_probability": 79.25,
+    "team": "NOP"
+  },
+  {
+    "player_name": "jose alvarado",
+    "stat_type": "rebounds",
+    "threshold": "6+",
+    "success_probability": 42.06,
+    "team": "NOP"
+  },
+  {
+    "player_name": "jose alvarado",
+    "stat_type": "rebounds",
+    "threshold": "8+",
+    "success_probability": 82.39,
+    "team": "NOP"
+  },
+  {
+    "player_name": "jose alvarado",
+    "stat_type": "rebounds",
+    "threshold": "10+",
+    "success_probability": 49.2,
+    "team": "NOP"
+  },
+  {
+    "player_name": "dennis schroder",
+    "stat_type": "rebounds",
+    "threshold": "2+",
+    "success_probability": 81.82,
+    "team": "BKN"
+  },
+  {
+    "player_name": "dennis schroder",
+    "stat_type": "rebounds",
+    "threshold": "4+",
+    "success_probability": 76.36,
+    "team": "BKN"
+  },
+  {
+    "player_name": "dennis schroder",
+    "stat_type": "rebounds",
+    "threshold": "6+",
+    "success_probability": 25.82,
+    "team": "BKN"
+  },
+  {
+    "player_name": "dennis schroder",
+    "stat_type": "rebounds",
+    "threshold": "8+",
+    "success_probability": 84.55,
+    "team": "BKN"
+  },
+  {
+    "player_name": "dennis schroder",
+    "stat_type": "rebounds",
+    "threshold": "10+",
+    "success_probability": 61.56,
+    "team": "BKN"
+  },
+  {
+    "player_name": "rj barrett",
+    "stat_type": "rebounds",
+    "threshold": "2+",
+    "success_probability": 35.47,
+    "team": "TOR"
+  },
+  {
+    "player_name": "rj barrett",
+    "stat_type": "rebounds",
+    "threshold": "4+",
+    "success_probability": 85.71,
+    "team": "TOR"
+  },
+  {
+    "player_name": "rj barrett",
+    "stat_type": "rebounds",
+    "threshold": "6+",
+    "success_probability": 73.11,
+    "team": "TOR"
+  },
+  {
+    "player_name": "rj barrett",
+    "stat_type": "rebounds",
+    "threshold": "8+",
+    "success_probability": 36.27,
+    "team": "TOR"
+  },
+  {
+    "player_name": "rj barrett",
+    "stat_type": "rebounds",
+    "threshold": "10+",
+    "success_probability": 65.32,
+    "team": "TOR"
+  },
+  {
+    "player_name": "jalen williams",
+    "stat_type": "rebounds",
+    "threshold": "2+",
+    "success_probability": 28.87,
+    "team": "OKC"
+  },
+  {
+    "player_name": "jalen williams",
+    "stat_type": "rebounds",
+    "threshold": "4+",
+    "success_probability": 35.37,
+    "team": "OKC"
+  },
+  {
+    "player_name": "jalen williams",
+    "stat_type": "rebounds",
+    "threshold": "6+",
+    "success_probability": 89.44,
+    "team": "OKC"
+  },
+  {
+    "player_name": "jalen williams",
+    "stat_type": "rebounds",
+    "threshold": "8+",
+    "success_probability": 82.09,
+    "team": "OKC"
+  },
+  {
+    "player_name": "jalen williams",
+    "stat_type": "rebounds",
+    "threshold": "10+",
+    "success_probability": 55.99,
+    "team": "OKC"
+  },
+  {
+    "player_name": "luka doncic",
+    "stat_type": "assists",
+    "threshold": "2+",
+    "success_probability": 71.05,
+    "team": "DAL"
+  },
+  {
+    "player_name": "luka doncic",
+    "stat_type": "assists",
+    "threshold": "4+",
+    "success_probability": 51.78,
+    "team": "DAL"
+  },
+  {
+    "player_name": "luka doncic",
+    "stat_type": "assists",
+    "threshold": "6+",
+    "success_probability": 90.01,
+    "team": "DAL"
+  },
+  {
+    "player_name": "luka doncic",
+    "stat_type": "assists",
+    "threshold": "8+",
+    "success_probability": 83.83,
+    "team": "DAL"
+  },
+  {
+    "player_name": "luka doncic",
+    "stat_type": "assists",
+    "threshold": "10+",
+    "success_probability": 27.56,
+    "team": "DAL"
+  },
+  {
+    "player_name": "nikola jokic",
+    "stat_type": "assists",
+    "threshold": "2+",
+    "success_probability": 68.79,
+    "team": "DEN"
+  },
+  {
+    "player_name": "nikola jokic",
+    "stat_type": "assists",
+    "threshold": "4+",
+    "success_probability": 69.58,
+    "team": "DEN"
+  },
+  {
+    "player_name": "nikola jokic",
+    "stat_type": "assists",
+    "threshold": "6+",
+    "success_probability": 72.5,
+    "team": "DEN"
+  },
+  {
+    "player_name": "nikola jokic",
+    "stat_type": "assists",
+    "threshold": "8+",
+    "success_probability": 58.48,
+    "team": "DEN"
+  },
+  {
+    "player_name": "nikola jokic",
+    "stat_type": "assists",
+    "threshold": "10+",
+    "success_probability": 39.87,
+    "team": "DEN"
+  },
+  {
+    "player_name": "giannis antetokounmpo",
+    "stat_type": "assists",
+    "threshold": "2+",
+    "success_probability": 30.37,
+    "team": "MIL"
+  },
+  {
+    "player_name": "giannis antetokounmpo",
+    "stat_type": "assists",
+    "threshold": "4+",
+    "success_probability": 32.25,
+    "team": "MIL"
+  },
+  {
+    "player_name": "giannis antetokounmpo",
+    "stat_type": "assists",
+    "threshold": "6+",
+    "success_probability": 50.0,
+    "team": "MIL"
+  },
+  {
+    "player_name": "giannis antetokounmpo",
+    "stat_type": "assists",
+    "threshold": "8+",
+    "success_probability": 64.16,
+    "team": "MIL"
+  },
+  {
+    "player_name": "giannis antetokounmpo",
+    "stat_type": "assists",
+    "threshold": "10+",
+    "success_probability": 64.48,
+    "team": "MIL"
+  },
+  {
+    "player_name": "shai gilgeousalexander",
+    "stat_type": "assists",
+    "threshold": "2+",
+    "success_probability": 94.52,
+    "team": "OKC"
+  },
+  {
+    "player_name": "shai gilgeousalexander",
+    "stat_type": "assists",
+    "threshold": "4+",
+    "success_probability": 54.55,
+    "team": "OKC"
+  },
+  {
+    "player_name": "shai gilgeousalexander",
+    "stat_type": "assists",
+    "threshold": "6+",
+    "success_probability": 79.67,
+    "team": "OKC"
+  },
+  {
+    "player_name": "shai gilgeousalexander",
+    "stat_type": "assists",
+    "threshold": "8+",
+    "success_probability": 68.81,
+    "team": "OKC"
+  },
+  {
+    "player_name": "shai gilgeousalexander",
+    "stat_type": "assists",
+    "threshold": "10+",
+    "success_probability": 26.25,
+    "team": "OKC"
+  },
+  {
+    "player_name": "karlanthony towns",
+    "stat_type": "assists",
+    "threshold": "2+",
+    "success_probability": 68.56,
+    "team": "MIN"
+  },
+  {
+    "player_name": "karlanthony towns",
+    "stat_type": "assists",
+    "threshold": "4+",
+    "success_probability": 48.55,
+    "team": "MIN"
+  },
+  {
+    "player_name": "karlanthony towns",
+    "stat_type": "assists",
+    "threshold": "6+",
+    "success_probability": 88.48,
+    "team": "MIN"
+  },
+  {
+    "player_name": "karlanthony towns",
+    "stat_type": "assists",
+    "threshold": "8+",
+    "success_probability": 25.83,
+    "team": "MIN"
+  },
+  {
+    "player_name": "karlanthony towns",
+    "stat_type": "assists",
+    "threshold": "10+",
+    "success_probability": 47.62,
+    "team": "MIN"
+  },
+  {
+    "player_name": "bogdan bogdanovic",
+    "stat_type": "assists",
+    "threshold": "2+",
+    "success_probability": 73.18,
+    "team": "ATL"
+  },
+  {
+    "player_name": "bogdan bogdanovic",
+    "stat_type": "assists",
+    "threshold": "4+",
+    "success_probability": 88.4,
+    "team": "ATL"
+  },
+  {
+    "player_name": "bogdan bogdanovic",
+    "stat_type": "assists",
+    "threshold": "6+",
+    "success_probability": 87.45,
+    "team": "ATL"
+  },
+  {
+    "player_name": "bogdan bogdanovic",
+    "stat_type": "assists",
+    "threshold": "8+",
+    "success_probability": 83.56,
+    "team": "ATL"
+  },
+  {
+    "player_name": "bogdan bogdanovic",
+    "stat_type": "assists",
+    "threshold": "10+",
+    "success_probability": 31.05,
+    "team": "ATL"
+  },
+  {
+    "player_name": "tim hardaway jr",
+    "stat_type": "assists",
+    "threshold": "2+",
+    "success_probability": 66.6,
+    "team": "DAL"
+  },
+  {
+    "player_name": "tim hardaway jr",
+    "stat_type": "assists",
+    "threshold": "4+",
+    "success_probability": 76.43,
+    "team": "DAL"
+  },
+  {
+    "player_name": "tim hardaway jr",
+    "stat_type": "assists",
+    "threshold": "6+",
+    "success_probability": 31.08,
+    "team": "DAL"
+  },
+  {
+    "player_name": "tim hardaway jr",
+    "stat_type": "assists",
+    "threshold": "8+",
+    "success_probability": 56.99,
+    "team": "DAL"
+  },
+  {
+    "player_name": "tim hardaway jr",
+    "stat_type": "assists",
+    "threshold": "10+",
+    "success_probability": 61.96,
+    "team": "DAL"
+  },
+  {
+    "player_name": "dangelo russell",
+    "stat_type": "assists",
+    "threshold": "2+",
+    "success_probability": 86.0,
+    "team": "LAL"
+  },
+  {
+    "player_name": "dangelo russell",
+    "stat_type": "assists",
+    "threshold": "4+",
+    "success_probability": 32.82,
+    "team": "LAL"
+  },
+  {
+    "player_name": "dangelo russell",
+    "stat_type": "assists",
+    "threshold": "6+",
+    "success_probability": 85.29,
+    "team": "LAL"
+  },
+  {
+    "player_name": "dangelo russell",
+    "stat_type": "assists",
+    "threshold": "8+",
+    "success_probability": 84.86,
+    "team": "LAL"
+  },
+  {
+    "player_name": "dangelo russell",
+    "stat_type": "assists",
+    "threshold": "10+",
+    "success_probability": 26.58,
+    "team": "LAL"
+  },
+  {
+    "player_name": "jose alvarado",
+    "stat_type": "assists",
+    "threshold": "2+",
+    "success_probability": 28.41,
+    "team": "NOP"
+  },
+  {
+    "player_name": "jose alvarado",
+    "stat_type": "assists",
+    "threshold": "4+",
+    "success_probability": 80.63,
+    "team": "NOP"
+  },
+  {
+    "player_name": "jose alvarado",
+    "stat_type": "assists",
+    "threshold": "6+",
+    "success_probability": 78.71,
+    "team": "NOP"
+  },
+  {
+    "player_name": "jose alvarado",
+    "stat_type": "assists",
+    "threshold": "8+",
+    "success_probability": 34.61,
+    "team": "NOP"
+  },
+  {
+    "player_name": "jose alvarado",
+    "stat_type": "assists",
+    "threshold": "10+",
+    "success_probability": 50.14,
+    "team": "NOP"
+  },
+  {
+    "player_name": "dennis schroder",
+    "stat_type": "assists",
+    "threshold": "2+",
+    "success_probability": 59.88,
+    "team": "BKN"
+  },
+  {
+    "player_name": "dennis schroder",
+    "stat_type": "assists",
+    "threshold": "4+",
+    "success_probability": 53.65,
+    "team": "BKN"
+  },
+  {
+    "player_name": "dennis schroder",
+    "stat_type": "assists",
+    "threshold": "6+",
+    "success_probability": 81.22,
+    "team": "BKN"
+  },
+  {
+    "player_name": "dennis schroder",
+    "stat_type": "assists",
+    "threshold": "8+",
+    "success_probability": 45.0,
+    "team": "BKN"
+  },
+  {
+    "player_name": "dennis schroder",
+    "stat_type": "assists",
+    "threshold": "10+",
+    "success_probability": 69.44,
+    "team": "BKN"
+  },
+  {
+    "player_name": "rj barrett",
+    "stat_type": "assists",
+    "threshold": "2+",
+    "success_probability": 32.92,
+    "team": "TOR"
+  },
+  {
+    "player_name": "rj barrett",
+    "stat_type": "assists",
+    "threshold": "4+",
+    "success_probability": 25.82,
+    "team": "TOR"
+  },
+  {
+    "player_name": "rj barrett",
+    "stat_type": "assists",
+    "threshold": "6+",
+    "success_probability": 34.94,
+    "team": "TOR"
+  },
+  {
+    "player_name": "rj barrett",
+    "stat_type": "assists",
+    "threshold": "8+",
+    "success_probability": 79.27,
+    "team": "TOR"
+  },
+  {
+    "player_name": "rj barrett",
+    "stat_type": "assists",
+    "threshold": "10+",
+    "success_probability": 32.04,
+    "team": "TOR"
+  },
+  {
+    "player_name": "jalen williams",
+    "stat_type": "assists",
+    "threshold": "2+",
+    "success_probability": 72.38,
+    "team": "OKC"
+  },
+  {
+    "player_name": "jalen williams",
+    "stat_type": "assists",
+    "threshold": "4+",
+    "success_probability": 83.44,
+    "team": "OKC"
+  },
+  {
+    "player_name": "jalen williams",
+    "stat_type": "assists",
+    "threshold": "6+",
+    "success_probability": 43.78,
+    "team": "OKC"
+  },
+  {
+    "player_name": "jalen williams",
+    "stat_type": "assists",
+    "threshold": "8+",
+    "success_probability": 72.14,
+    "team": "OKC"
+  },
+  {
+    "player_name": "jalen williams",
+    "stat_type": "assists",
+    "threshold": "10+",
+    "success_probability": 71.59,
+    "team": "OKC"
+  },
+  {
+    "player_name": "luka doncic",
+    "stat_type": "threes",
+    "threshold": "1+",
+    "success_probability": 55.18,
+    "team": "DAL"
+  },
+  {
+    "player_name": "luka doncic",
+    "stat_type": "threes",
+    "threshold": "2+",
+    "success_probability": 35.11,
+    "team": "DAL"
+  },
+  {
+    "player_name": "luka doncic",
+    "stat_type": "threes",
+    "threshold": "3+",
+    "success_probability": 91.31,
+    "team": "DAL"
+  },
+  {
+    "player_name": "luka doncic",
+    "stat_type": "threes",
+    "threshold": "4+",
+    "success_probability": 94.13,
+    "team": "DAL"
+  },
+  {
+    "player_name": "luka doncic",
+    "stat_type": "threes",
+    "threshold": "5+",
+    "success_probability": 91.27,
+    "team": "DAL"
+  },
+  {
+    "player_name": "nikola jokic",
+    "stat_type": "threes",
+    "threshold": "1+",
+    "success_probability": 48.81,
+    "team": "DEN"
+  },
+  {
+    "player_name": "nikola jokic",
+    "stat_type": "threes",
+    "threshold": "2+",
+    "success_probability": 86.85,
+    "team": "DEN"
+  },
+  {
+    "player_name": "nikola jokic",
+    "stat_type": "threes",
+    "threshold": "3+",
+    "success_probability": 50.25,
+    "team": "DEN"
+  },
+  {
+    "player_name": "nikola jokic",
+    "stat_type": "threes",
+    "threshold": "4+",
+    "success_probability": 62.23,
+    "team": "DEN"
+  },
+  {
+    "player_name": "nikola jokic",
+    "stat_type": "threes",
+    "threshold": "5+",
+    "success_probability": 29.94,
+    "team": "DEN"
+  },
+  {
+    "player_name": "giannis antetokounmpo",
+    "stat_type": "threes",
+    "threshold": "1+",
+    "success_probability": 39.7,
+    "team": "MIL"
+  },
+  {
+    "player_name": "giannis antetokounmpo",
+    "stat_type": "threes",
+    "threshold": "2+",
+    "success_probability": 75.25,
+    "team": "MIL"
+  },
+  {
+    "player_name": "giannis antetokounmpo",
+    "stat_type": "threes",
+    "threshold": "3+",
+    "success_probability": 94.8,
+    "team": "MIL"
+  },
+  {
+    "player_name": "giannis antetokounmpo",
+    "stat_type": "threes",
+    "threshold": "4+",
+    "success_probability": 34.14,
+    "team": "MIL"
+  },
+  {
+    "player_name": "giannis antetokounmpo",
+    "stat_type": "threes",
+    "threshold": "5+",
+    "success_probability": 44.3,
+    "team": "MIL"
+  },
+  {
+    "player_name": "shai gilgeousalexander",
+    "stat_type": "threes",
+    "threshold": "1+",
+    "success_probability": 66.73,
+    "team": "OKC"
+  },
+  {
+    "player_name": "shai gilgeousalexander",
+    "stat_type": "threes",
+    "threshold": "2+",
+    "success_probability": 28.99,
+    "team": "OKC"
+  },
+  {
+    "player_name": "shai gilgeousalexander",
+    "stat_type": "threes",
+    "threshold": "3+",
+    "success_probability": 68.29,
+    "team": "OKC"
+  },
+  {
+    "player_name": "shai gilgeousalexander",
+    "stat_type": "threes",
+    "threshold": "4+",
+    "success_probability": 26.52,
+    "team": "OKC"
+  },
+  {
+    "player_name": "shai gilgeousalexander",
+    "stat_type": "threes",
+    "threshold": "5+",
+    "success_probability": 34.66,
+    "team": "OKC"
+  },
+  {
+    "player_name": "karlanthony towns",
+    "stat_type": "threes",
+    "threshold": "1+",
+    "success_probability": 45.51,
+    "team": "MIN"
+  },
+  {
+    "player_name": "karlanthony towns",
+    "stat_type": "threes",
+    "threshold": "2+",
+    "success_probability": 59.82,
+    "team": "MIN"
+  },
+  {
+    "player_name": "karlanthony towns",
+    "stat_type": "threes",
+    "threshold": "3+",
+    "success_probability": 64.26,
+    "team": "MIN"
+  },
+  {
+    "player_name": "karlanthony towns",
+    "stat_type": "threes",
+    "threshold": "4+",
+    "success_probability": 91.54,
+    "team": "MIN"
+  },
+  {
+    "player_name": "karlanthony towns",
+    "stat_type": "threes",
+    "threshold": "5+",
+    "success_probability": 67.92,
+    "team": "MIN"
+  },
+  {
+    "player_name": "bogdan bogdanovic",
+    "stat_type": "threes",
+    "threshold": "1+",
+    "success_probability": 69.27,
+    "team": "ATL"
+  },
+  {
+    "player_name": "bogdan bogdanovic",
+    "stat_type": "threes",
+    "threshold": "2+",
+    "success_probability": 71.79,
+    "team": "ATL"
+  },
+  {
+    "player_name": "bogdan bogdanovic",
+    "stat_type": "threes",
+    "threshold": "3+",
+    "success_probability": 67.59,
+    "team": "ATL"
+  },
+  {
+    "player_name": "bogdan bogdanovic",
+    "stat_type": "threes",
+    "threshold": "4+",
+    "success_probability": 50.7,
+    "team": "ATL"
+  },
+  {
+    "player_name": "bogdan bogdanovic",
+    "stat_type": "threes",
+    "threshold": "5+",
+    "success_probability": 64.01,
+    "team": "ATL"
+  },
+  {
+    "player_name": "tim hardaway jr",
+    "stat_type": "threes",
+    "threshold": "1+",
+    "success_probability": 30.73,
+    "team": "DAL"
+  },
+  {
+    "player_name": "tim hardaway jr",
+    "stat_type": "threes",
+    "threshold": "2+",
+    "success_probability": 94.85,
+    "team": "DAL"
+  },
+  {
+    "player_name": "tim hardaway jr",
+    "stat_type": "threes",
+    "threshold": "3+",
+    "success_probability": 54.62,
+    "team": "DAL"
+  },
+  {
+    "player_name": "tim hardaway jr",
+    "stat_type": "threes",
+    "threshold": "4+",
+    "success_probability": 39.66,
+    "team": "DAL"
+  },
+  {
+    "player_name": "tim hardaway jr",
+    "stat_type": "threes",
+    "threshold": "5+",
+    "success_probability": 60.25,
+    "team": "DAL"
+  },
+  {
+    "player_name": "dangelo russell",
+    "stat_type": "threes",
+    "threshold": "1+",
+    "success_probability": 69.77,
+    "team": "LAL"
+  },
+  {
+    "player_name": "dangelo russell",
+    "stat_type": "threes",
+    "threshold": "2+",
+    "success_probability": 57.34,
+    "team": "LAL"
+  },
+  {
+    "player_name": "dangelo russell",
+    "stat_type": "threes",
+    "threshold": "3+",
+    "success_probability": 78.96,
+    "team": "LAL"
+  },
+  {
+    "player_name": "dangelo russell",
+    "stat_type": "threes",
+    "threshold": "4+",
+    "success_probability": 39.11,
+    "team": "LAL"
+  },
+  {
+    "player_name": "dangelo russell",
+    "stat_type": "threes",
+    "threshold": "5+",
+    "success_probability": 69.27,
+    "team": "LAL"
+  },
+  {
+    "player_name": "jose alvarado",
+    "stat_type": "threes",
+    "threshold": "1+",
+    "success_probability": 80.21,
+    "team": "NOP"
+  },
+  {
+    "player_name": "jose alvarado",
+    "stat_type": "threes",
+    "threshold": "2+",
+    "success_probability": 63.78,
+    "team": "NOP"
+  },
+  {
+    "player_name": "jose alvarado",
+    "stat_type": "threes",
+    "threshold": "3+",
+    "success_probability": 30.53,
+    "team": "NOP"
+  },
+  {
+    "player_name": "jose alvarado",
+    "stat_type": "threes",
+    "threshold": "4+",
+    "success_probability": 32.77,
+    "team": "NOP"
+  },
+  {
+    "player_name": "jose alvarado",
+    "stat_type": "threes",
+    "threshold": "5+",
+    "success_probability": 87.0,
+    "team": "NOP"
+  },
+  {
+    "player_name": "dennis schroder",
+    "stat_type": "threes",
+    "threshold": "1+",
+    "success_probability": 26.97,
+    "team": "BKN"
+  },
+  {
+    "player_name": "dennis schroder",
+    "stat_type": "threes",
+    "threshold": "2+",
+    "success_probability": 62.32,
+    "team": "BKN"
+  },
+  {
+    "player_name": "dennis schroder",
+    "stat_type": "threes",
+    "threshold": "3+",
+    "success_probability": 35.46,
+    "team": "BKN"
+  },
+  {
+    "player_name": "dennis schroder",
+    "stat_type": "threes",
+    "threshold": "4+",
+    "success_probability": 41.6,
+    "team": "BKN"
+  },
+  {
+    "player_name": "dennis schroder",
+    "stat_type": "threes",
+    "threshold": "5+",
+    "success_probability": 58.98,
+    "team": "BKN"
+  },
+  {
+    "player_name": "rj barrett",
+    "stat_type": "threes",
+    "threshold": "1+",
+    "success_probability": 76.23,
+    "team": "TOR"
+  },
+  {
+    "player_name": "rj barrett",
+    "stat_type": "threes",
+    "threshold": "2+",
+    "success_probability": 91.91,
+    "team": "TOR"
+  },
+  {
+    "player_name": "rj barrett",
+    "stat_type": "threes",
+    "threshold": "3+",
+    "success_probability": 51.57,
+    "team": "TOR"
+  },
+  {
+    "player_name": "rj barrett",
+    "stat_type": "threes",
+    "threshold": "4+",
+    "success_probability": 29.84,
+    "team": "TOR"
+  },
+  {
+    "player_name": "rj barrett",
+    "stat_type": "threes",
+    "threshold": "5+",
+    "success_probability": 27.94,
+    "team": "TOR"
+  },
+  {
+    "player_name": "jalen williams",
+    "stat_type": "threes",
+    "threshold": "1+",
+    "success_probability": 34.51,
+    "team": "OKC"
+  },
+  {
+    "player_name": "jalen williams",
+    "stat_type": "threes",
+    "threshold": "2+",
+    "success_probability": 58.95,
+    "team": "OKC"
+  },
+  {
+    "player_name": "jalen williams",
+    "stat_type": "threes",
+    "threshold": "3+",
+    "success_probability": 72.3,
+    "team": "OKC"
+  },
+  {
+    "player_name": "jalen williams",
+    "stat_type": "threes",
+    "threshold": "4+",
+    "success_probability": 93.88,
+    "team": "OKC"
+  },
+  {
+    "player_name": "jalen williams",
+    "stat_type": "threes",
+    "threshold": "5+",
+    "success_probability": 76.92,
+    "team": "OKC"
+  }
+]

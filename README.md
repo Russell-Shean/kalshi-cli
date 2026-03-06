@@ -83,3 +83,42 @@ Finally check the box to agree to the terms of service and click continue and th
 You should then be redirected to a page that looks like this. Under the "Metrics" section click on the "Create Oauth Client" button   
 
 ![Create Clients](www/images/create-clients-landing.png)
+
+Choose "Desktop App" as the application type, name the app "kalshi-cli" and then click create
+
+![Desktop App](www/images/desktop-app.png)
+
+You'll see a popup that looks like this. Click ok
+
+![Desktop App](www/images/client-popup.png)
+
+You should then be redirected to a page that looks like this. Click on the blue underlined kalshi-cli
+
+![Desktop App](www/images/client-redirect.png)
+
+On this page click on the "download json" button in the bottom right corner.
+
+![Desktop App](www/images/download-json.png)
+
+Now click on the "audience" tab or visit https://console.cloud.google.com/auth/audience?project=kalshi-cli. Click on "Publish app"
+
+![Publish App](www/images/publish-app.png)
+
+
+Now you need to enable the apis we'll use. Visit https://console.cloud.google.com/apis/library/drive.googleapis.com?project=kalshi-cli and click "enable"
+
+![Enable Drive API](www/images/enable-drive-api.png)
+
+Visit the gmail api page and do the same: https://console.cloud.google.com/apis/library/gmail.googleapis.com?project=kalshi-cli 
+
+That's all you need to do manually. The script should handle the rest of the process for you! IMPORTANT: Never share the json file with anyone, it gives people the ability to access your google account. 
+
+
+## Kalshi
+Visit https://kalshi.com/account/profile, login to your Kalshi account and then under the API Keys section click on "Create key"
+
+![Create Kalshi API Key](www/images/create-kalshi-api-key.png)
+
+In the popup name the key "kalshi-cli" and click "Create"
+
+Next you'll see a popup displaying the actual key. Copy and paste both the api key and private key to secure place on your local computer. You'll need them later. 
